@@ -1,0 +1,99 @@
+# Mental Health in Tech Survey – Exploratory Data Analysis (EDA)
+
+## Project Overview
+
+This project performs **Exploratory Data Analysis (EDA)** on the **Mental Health in Tech Survey** dataset to understand the factors affecting employees' mental well-being in the technology industry. The analysis focuses on workplace support, treatment-seeking behavior, company policies, and employee perceptions regarding mental health.
+
+## Business Objective
+
+The objective of this project is to identify the key factors influencing employee mental health and evaluate how workplace policies, benefits, and organizational support impact treatment and overall well-being. The insights can help organizations build healthier workplaces and improve employee productivity.
+
+## Dataset Information
+
+The dataset contains employee survey responses with features such as:
+
+* Age
+* Gender
+* Country
+* State
+* Family History
+* Treatment
+* Work Interference
+* Number of Employees
+* Remote Work
+* Tech Company
+* Mental Health Benefits
+* Care Options
+* Wellness Program
+* Seek Help
+* Anonymity
+* Leave Policy
+* Mental Health Consequences
+* Physical Health Consequences
+* Coworkers
+* Supervisor
+* Mental Health Interview
+* Physical Health Interview
+* Mental vs Physical Health
+* Observed Consequences
+
+## Project Workflow
+
+1. Imported the dataset into Python.
+2. Cleaned the data by removing unnecessary columns and handling missing values.
+3. Removed duplicate records and corrected data inconsistencies.
+4. Performed Exploratory Data Analysis (EDA).
+5. Created visualizations to identify trends and relationships.
+6. Generated business insights and recommendations.
+
+## Tools & Libraries Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn (Label Encoding)
+* Jupyter Notebook / Google Colab
+
+## Key Analysis Performed
+
+* Age distribution of employees
+* Gender-wise mental health analysis
+* Country-wise mental health trends
+* Work interference analysis
+* Treatment rate comparison
+* Family history vs treatment
+* Remote vs non-remote employee analysis
+* Mental health support in tech vs non-tech companies
+* Company size vs mental health benefits
+* Correlation heatmap
+* Pair plot analysis
+
+## Key Insights
+
+* Employees with a family history of mental illness are more likely to seek treatment.
+* Work interference has a strong relationship with mental health treatment.
+* Many employees are unaware of their company's mental health policies.
+* Tech companies generally provide better mental health support than non-tech companies.
+* Remote workers show a slightly more positive perception of workplace mental health support.
+* Wellness programs and care options encourage employees to seek help.
+
+## Business Recommendations
+
+* Increase awareness of mental health policies and available support.
+* Provide employee counseling and wellness programs.
+* Encourage open discussions between employees and managers.
+* Reduce stigma around mental health through awareness campaigns.
+* Ensure mental health receives equal importance as physical health.
+* Implement early intervention programs before mental health affects work performance.
+
+## Conclusion
+
+The analysis highlights the importance of workplace mental health initiatives and organizational support. By improving awareness, providing accessible mental health resources, and encouraging open communication, organizations can improve employee well-being, increase productivity, reduce absenteeism, and create a healthier work environment.
+
+## Author
+
+**Pujari Bhanu Prasad**
+
+**Skills Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization.

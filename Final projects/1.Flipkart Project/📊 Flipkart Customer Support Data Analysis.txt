@@ -1,0 +1,92 @@
+📊 Flipkart Customer Support Data Analysis (EDA)
+📌 Project Overview
+
+This project performs Exploratory Data Analysis (EDA) on Flipkart Customer Support data to understand customer complaints, customer satisfaction (CSAT), agent performance, and product-related support issues. The objective is to identify meaningful business insights that can help improve customer service and enhance the overall customer experience.
+
+🎯 Business Objective
+
+The objective of this project is to analyze customer support interactions and identify the factors affecting customer satisfaction. The analysis helps understand complaint patterns, agent performance, product category issues, and regional trends to support better business decisions.
+
+📂 Dataset
+
+The dataset contains customer support information with the following attributes:
+
+Unique ID
+Channel Name
+Category
+Sub-category
+Customer Remarks
+Order ID
+Order Date & Time
+Issue Reported At
+Issue Responded
+Survey Response Date
+Customer City
+Product Category
+Item Price
+Connected Handling Time
+Agent Name
+Supervisor
+Manager
+Tenure Bucket
+Agent Shift
+CSAT Score
+🛠️ Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook / Google Colab
+📋 Project Workflow
+Import Libraries
+Load Dataset
+Data Cleaning
+Missing Value Handling
+Duplicate Value Check
+Data Wrangling
+Exploratory Data Analysis (EDA)
+Data Visualization
+Business Insights
+Conclusion
+📊 Visualizations Created
+Complaint Distribution by Channel
+Top 10 Cities by Complaints
+Complaint Distribution by Product Category
+Item Price vs CSAT Score
+Average CSAT Score by Agent Shift
+Product Category vs CSAT Score
+Tenure Analysis
+Correlation Heatmap
+Pair Plot
+Additional business-focused visualizations
+🔍 Key Insights
+Electronics and Lifestyle categories received the highest number of customer complaints.
+Hyderabad and New Delhi recorded the highest complaint volumes.
+Customer satisfaction remained consistent across different agent shifts and tenure groups.
+Product price showed very little correlation with customer satisfaction.
+Connected handling time also had minimal influence on CSAT scores.
+GiftCard category showed comparatively lower customer satisfaction and may require further investigation.
+💡 Business Recommendations
+Improve support quality for Electronics and Lifestyle product categories.
+Allocate more customer support resources to high-complaint cities.
+Investigate recurring issues related to GiftCard services.
+Continue maintaining consistent training programs across all agent shifts.
+Focus on improving issue resolution quality rather than product pricing.
+📈 Conclusion
+
+The analysis provides valuable insights into Flipkart's customer support operations. Most customers reported high satisfaction regardless of product price or agent tenure, indicating that customer experience is driven primarily by service quality and issue resolution. The findings can help Flipkart optimize customer support processes, improve operational efficiency, and enhance customer satisfaction.
+
+🚀 Future Improvements
+Build a Customer Satisfaction Prediction Model
+Perform Sentiment Analysis on Customer Remarks
+Develop an Interactive Dashboard using Tableau or Power BI
+Create a Real-Time Customer Support Monitoring Dashboard
+👨‍💻 Author
+
+Pujari Bhanu Prasad
+
+
+Aspiring Data Analyst
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
