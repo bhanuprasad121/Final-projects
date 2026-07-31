@@ -1,0 +1,200 @@
+# ⚡ Electric Vehicles Analysis Dashboard
+
+## 📌 Project Overview
+
+This project presents an **Electric Vehicles (EV) Analysis Dashboard** developed using **Power BI**. The dashboard provides comprehensive insights into electric vehicle adoption across Indian states, manufacturer performance, vehicle categories, monthly sales trends, and market growth. The analysis enables policymakers, manufacturers, and stakeholders to understand EV market dynamics and make informed, data-driven decisions.
+
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze electric vehicle sales data to identify sales trends, state-wise EV adoption, manufacturer performance, vehicle category distribution, and market growth. The dashboard helps stakeholders monitor EV penetration, evaluate manufacturer competitiveness, identify high-growth markets, and support strategic planning for the expansion of electric mobility.
+
+---
+
+## 📂 Dataset
+
+The project uses three datasets:
+
+### 📅 dim_date
+Contains calendar-related information including:
+- Date
+- Month
+- Quarter
+- Year
+- Fiscal Year
+
+### 🚗 Electric Vehicle Sales by State
+Contains:
+- State
+- Vehicle Category
+- Electric Vehicles Sold
+- Total Vehicles Sold
+- EV Penetration (%)
+
+### 🏭 Electric Vehicle Sales by Maker
+Contains:
+- Manufacturer
+- Vehicle Category
+- Electric Vehicles Sold
+- Total Vehicles Sold
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX (Data Analysis Expressions)
+
+---
+
+## 📋 Project Workflow
+
+- Import Datasets
+- Data Cleaning
+- Data Transformation using Power Query
+- Create Relationships
+- Create DAX Measures
+- Build Interactive Dashboard
+- Analyze Business Insights
+- Generate Recommendations
+
+---
+
+# 📊 Dashboard Visualizations
+
+## 📄 Page 1 – EV Sales & State Performance
+
+### KPI Cards
+- Total EV Sales
+- Total Vehicles Sold
+
+### Clustered Column Chart
+- Total EV Sales by State
+
+### Scatter Plot
+- EV Penetration (%) by State
+
+### Insights
+- Identifies states with the highest EV sales.
+- Compares EV adoption rates across states.
+- Highlights states with higher EV penetration despite lower overall sales.
+
+---
+
+## 📄 Page 2 – Manufacturer Performance
+
+### Horizontal Bar Chart
+- Top 5 EV Makers by Sales
+
+### Horizontal Bar Chart
+- Total EV Sales by Vehicle Category
+
+### Insights
+- Identifies the leading EV manufacturers.
+- Shows the dominance of different vehicle categories.
+- Highlights the contribution of two-wheelers and four-wheelers to total EV sales.
+
+---
+
+## 📄 Page 3 – CAGR Analysis
+
+### Horizontal Bar Chart
+- CAGR (%) by State
+
+### Horizontal Bar Chart
+- CAGR (%) by Manufacturer
+
+### Insights
+- Identifies states with the highest annual EV growth.
+- Compares manufacturer growth rates.
+- Highlights emerging EV markets with rapid adoption.
+
+---
+
+## 📄 Page 4 – Monthly Sales Trend
+
+### Line Chart
+- Total EV Sales by Month
+
+### Insights
+- Displays monthly fluctuations in EV sales.
+- Identifies seasonal trends and peak sales months.
+- Helps businesses understand sales performance throughout the year.
+
+---
+
+## 📄 Page 5 – Market Overview
+
+### Horizontal Bar Chart
+- Total EV Sales by Maker
+
+### Horizontal Bar Chart
+- Total EV Sales by State
+
+### Horizontal Bar Chart
+- EV Penetration (%) by State
+
+### Horizontal Bar Chart
+- Total Vehicles Sold by State
+
+### Insights
+- Provides a complete overview of the Indian EV market.
+- Compares state performance and manufacturer contributions.
+- Highlights market leaders and adoption trends.
+
+---
+
+# 📈 Key Insights
+
+- Maharashtra records the highest electric vehicle sales among all states.
+- Karnataka and Tamil Nadu are among the leading contributors to EV adoption.
+- Two-wheelers dominate the Indian EV market compared to four-wheelers.
+- OLA Electric is the leading EV manufacturer based on total sales.
+- Several northeastern states show higher EV penetration despite lower sales volumes.
+- Monthly EV sales fluctuate throughout the year, indicating seasonal demand.
+- CAGR analysis highlights emerging states and manufacturers experiencing rapid growth.
+- Market growth is driven by increasing consumer awareness and government initiatives.
+
+---
+
+# 💡 Business Recommendations
+
+- Increase charging infrastructure in high-growth states.
+- Expand dealership networks in states with rising EV adoption.
+- Encourage manufacturers to invest in two-wheelers, which dominate the market.
+- Promote government incentives in states with lower EV penetration.
+- Focus marketing campaigns during peak sales months.
+- Support emerging manufacturers with innovation and infrastructure partnerships.
+- Continue monitoring CAGR to identify future high-growth markets.
+
+---
+
+# 📈 Conclusion
+
+The Electric Vehicles Analysis Dashboard provides a comprehensive overview of India's EV market by analyzing sales performance, manufacturer contribution, state-wise adoption, vehicle categories, and growth trends. The dashboard enables businesses and policymakers to identify market opportunities, evaluate EV penetration, and make informed strategic decisions. These insights support the continued growth of sustainable transportation and help accelerate India's transition toward electric mobility.
+
+---
+
+# 🚀 Future Improvements
+
+- Develop EV Sales Forecasting using Machine Learning.
+- Integrate real-time EV registration data.
+- Build an interactive forecasting dashboard.
+- Include charging station availability analysis.
+- Analyze government subsidy impact on EV adoption.
+- Add carbon emission reduction analysis.
+
+---
+
+# 👨‍💻 Author
+
+**Pujari Bhanu Prasad**
+
+Aspiring Data Analyst
+
+---
+
+⭐ **If you found this project useful, consider giving it a star on GitHub!**
