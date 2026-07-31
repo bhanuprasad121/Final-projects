@@ -1,0 +1,60 @@
+## 📊 Dashboard Visualizations (Power BI)
+
+The interactive Power BI dashboard was designed to analyze Dubai house prices, property types, neighborhood performance, and listing trends. The dashboard includes the following visualizations:
+
+### 📌 KPI Cards
+- Total Listings
+- Average House Price
+- Average Price per Square Foot
+
+### 📊 Bar Chart
+**Average Price by Neighborhood**
+- Compares the average house price across Urban, Rural, and Suburb neighborhoods.
+
+### 📊 Clustered Column Chart
+**Total Listings by Bedrooms and Property Type**
+- Displays the number of listings based on bedroom count (2–5 bedrooms) and property type (Apartment, Villa, Luxury House).
+
+### 📊 Stacked Column Chart
+**Total Listings by Neighborhood and Property Type**
+- Shows the distribution of Apartments, Villas, and Luxury Houses across different neighborhoods.
+
+### 📈 Line Chart
+**Average Price by Year Built**
+- Analyzes how the average property price changes based on the construction year.
+
+### 📊 Stacked Bar Chart
+**Sum of Price by Property Type and Price Bins**
+- Compares the total property value across Apartments, Villas, and Luxury Houses within different price ranges.
+
+### 🎛️ Slicers (Interactive Filters)
+- Bathrooms
+- Bedrooms
+- Listing Category (Budget, Mid-Range, High-End)
+
+These slicers allow users to dynamically filter the dashboard and analyze specific property segments.
+
+---
+
+## 📈 Dashboard Insights
+
+- The dashboard contains approximately **2,000 property listings**.
+- The average property price is approximately **223.71K**.
+- The average price per square foot is around **113.12**.
+- Villas contribute the highest total property value among all property types.
+- Property prices remain relatively stable across neighborhoods with slight variations.
+- Houses with **4 and 5 bedrooms** have a higher number of listings.
+- Urban, Rural, and Suburb neighborhoods have a balanced distribution of property listings.
+- Newer and older properties exhibit moderate variations in average pricing.
+- Mid-range properties dominate the market, while luxury properties contribute significantly to the total market value.
+- Interactive filters allow users to analyze pricing trends based on bedrooms, bathrooms, and listing categories.
+
+## 👨‍💻 Author
+
+**Pujari Bhanu Prasad**
+
+Aspiring Data Analyst
+
+---
+
+⭐ **If you found this project useful, consider giving it a star on GitHub!**
