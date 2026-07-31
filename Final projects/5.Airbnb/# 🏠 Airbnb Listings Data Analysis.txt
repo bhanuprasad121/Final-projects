@@ -1,0 +1,127 @@
+# 🏠 Airbnb Listings Data Analysis (EDA)
+
+## 📌 Project Overview
+
+This project performs **Exploratory Data Analysis (EDA)** on an Airbnb listings dataset using **Python in Jupyter Notebook**. The analysis focuses on understanding pricing patterns, room types, neighborhood performance, customer reviews, and property availability. The objective is to uncover meaningful business insights that help hosts optimize pricing strategies, improve occupancy rates, and enhance the overall guest experience.
+
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze Airbnb listing data to identify pricing trends, popular neighborhoods, customer preferences, and booking patterns. The analysis supports data-driven decision-making by helping hosts and property managers improve pricing strategies, maximize occupancy, and increase customer satisfaction.
+
+---
+
+## 📂 Dataset
+
+The dataset contains Airbnb listing information with the following attributes:
+
+- Listing ID
+- Property Name
+- Host ID
+- Host Name
+- Neighborhood
+- Latitude
+- Longitude
+- Room Type
+- Price
+- Minimum Nights
+- Number of Reviews
+- Last Review
+- Reviews Per Month
+- Availability (365 Days)
+- Number of Reviews (Last 12 Months)
+- Host Listing Count
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📋 Project Workflow
+
+- Import Libraries
+- Load Dataset
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Value Check
+- Remove Unnecessary Columns
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insights
+- Business Recommendations
+- Conclusion
+
+---
+
+## 📊 Visualizations Created
+
+- Distribution of Airbnb Prices (Histogram)
+- Top 10 Neighborhoods by Number of Listings
+- Average Price by Room Type
+- Price Distribution by Room Type (Box Plot)
+- Number of Reviews vs Price (Scatter Plot)
+- Availability vs Price (Scatter Plot)
+- Top 10 Neighborhoods by Average Price
+- Reviews by Room Type (Box Plot)
+- Correlation Heatmap
+
+---
+
+## 🔍 Key Insights
+
+- Most Airbnb listings fall within the lower price range, making the platform affordable for most travelers.
+- Entire homes/apartments receive the highest number of customer reviews, indicating strong guest demand.
+- Private rooms are generally the most affordable accommodation option.
+- Property prices vary significantly across different neighborhoods.
+- Some neighborhoods have a much higher concentration of Airbnb listings than others.
+- Review-related variables show a strong positive correlation, while price has little correlation with other numerical variables.
+- Premium-priced listings exist but represent only a small portion of the market.
+
+---
+
+## 💡 Business Recommendations
+
+- Implement competitive pricing strategies based on neighborhood and room type.
+- Focus promotional campaigns on high-demand neighborhoods to maximize bookings.
+- Encourage hosts to improve guest experiences to generate more positive reviews.
+- Review pricing strategies for premium listings to ensure they remain competitive.
+- Optimize availability and pricing based on seasonal demand and booking trends.
+- Monitor customer feedback regularly to improve listing quality and guest satisfaction.
+
+---
+
+## 📈 Conclusion
+
+The exploratory data analysis provides valuable insights into Airbnb listing performance, pricing behavior, customer engagement, and neighborhood trends. The findings reveal that location, room type, and customer reviews play an important role in attracting bookings, while pricing alone does not strongly influence customer engagement. These insights can help hosts, property managers, and the Airbnb platform make informed decisions that improve occupancy rates, customer satisfaction, and overall business performance.
+
+---
+
+## 🚀 Future Improvements
+
+- Build an Airbnb Price Prediction Model using Machine Learning.
+- Perform Sentiment Analysis using customer review text.
+- Develop an Interactive Dashboard using Power BI or Tableau.
+- Create a Real-Time Airbnb Market Monitoring Dashboard.
+- Analyze seasonal booking trends and occupancy forecasting.
+
+---
+
+## 👨‍💻 Author
+
+**Pujari Bhanu Prasad**
+
+Aspiring Data Analyst
+
+---
+
+⭐ **If you found this project useful, consider giving it a star on GitHub!**
